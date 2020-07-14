@@ -1,5 +1,5 @@
 <h2 align="center">Bojanche Stojchevski</h2>
-<p align="center"><img src="https://avatars2.githubusercontent.com/u/3706379?s=460&u=455aca6d30e809297e23f32263774d328351fb77&v=4" width="256px"></p>
+<p align="center"><img src="https://avatars2.githubusercontent.com/u/3706379?s=460&u=455aca6d30e809297e23f32263774d328351fb77&v=4" width="200px"></p>
 <h6 align="center">You can find me on the www with this avatar©</h6>
 <h4 align="center">Software Engineer (Backend, Cloud, DevOps)</h4>
 <hr/>
