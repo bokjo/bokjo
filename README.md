@@ -13,9 +13,9 @@
 <p align="center"><strong>Find me on the www 👇</strong></p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/bojanche-stojchevski/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://github.com/bokjo"><img src="https://img.shields.io/github/followers/bokjo.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/bojan_che_"><img src="https://img.shields.io/twitter/follow/bojan_che_?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/bojanche-stojchevski/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/bokjo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/bokjo.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/bojan_che_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/bojan_che_?label=Twitter&style=social" alt="Twitter"></a>
 </p>
 
-<p align="center">My blog 👉 <a href="https://blog.che.mk" target="_blank">blog.che.mk</a>. And personal site 👉 <a href="https://che.mk" target="_blank">che.mk</a></p>
+<p align="center">My blog 👉 <a href="https://blog.che.mk" target="_blank" rel="noopener noreferrer">blog.che.mk</a>. And personal site 👉 <a href="https://che.mk" target="_blank" rel="noopener noreferrer">che.mk</a></p>
